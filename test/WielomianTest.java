@@ -97,3 +97,4 @@ public class WielomianTest {
         assertEquals(0, new Wielomian(0, 1, 2).wspolczynnik(-1));
     }
 }
+/* Tests taken from: https://www.mimuw.edu.pl/\~walen/teaching/2019-po/ */

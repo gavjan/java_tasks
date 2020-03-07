@@ -74,3 +74,5 @@ public class bstTest {
 
 
 }
+/* Tests taken from: https://www.mimuw.edu.pl/\~walen/teaching/2019-po/ */
+
